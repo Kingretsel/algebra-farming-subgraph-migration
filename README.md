@@ -190,7 +190,7 @@ TYPEGEN
     Code: ENOENT
 ```
 
-4. Rate-limiting. Get a private RPC endpoint from [any node provider](https://ethereumnodes.com), then change the `rpcUrl` in `processor.ts`
+4. Rate-limiting. Get a private RPC endpoint from [any node provider](https://ankr.com/), then change the `rpcUrl` in `processor.ts`
 
 ```bash
 will pause new requests for 20000ms {"rpcUrl":"https://rpc.ankr.com/eth",
